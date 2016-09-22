@@ -1,0 +1,6 @@
+c:\users\yousef rabie\documents\visual studio 2013\Projects\Youtube C Sharp Tutorial\Youtube C Sharp Tutorial\bin\Debug\Youtube C Sharp Tutorial.exe.config
+C:\Users\Yousef Rabie\Documents\Visual Studio 2013\Projects\Youtube C Sharp Tutorial\Youtube C Sharp Tutorial\bin\Debug\Youtube C Sharp Tutorial.exe
+C:\Users\Yousef Rabie\Documents\Visual Studio 2013\Projects\Youtube C Sharp Tutorial\Youtube C Sharp Tutorial\bin\Debug\Youtube C Sharp Tutorial.pdb
+C:\Users\Yousef Rabie\Documents\Visual Studio 2013\Projects\Youtube C Sharp Tutorial\Youtube C Sharp Tutorial\obj\Debug\Youtube C Sharp Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Yousef Rabie\Documents\Visual Studio 2013\Projects\Youtube C Sharp Tutorial\Youtube C Sharp Tutorial\obj\Debug\Youtube C Sharp Tutorial.exe
+C:\Users\Yousef Rabie\Documents\Visual Studio 2013\Projects\Youtube C Sharp Tutorial\Youtube C Sharp Tutorial\obj\Debug\Youtube C Sharp Tutorial.pdb
